@@ -3,6 +3,9 @@
 Program ini dibuat untuk memenuhi tugas mata kuliah Keamanan Sistem.  
 Aplikasi ini menggunakan metode block cipher dengan mode CBC (Cipher Block Chaining) untuk melakukan enkripsi dan dekripsi pesan.
 
+#Platform
+Vscode
+
 ## Fitur
 - Enkripsi pesan
 - Dekripsi ciphertext
